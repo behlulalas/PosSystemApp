@@ -1,0 +1,106 @@
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\Resources\user_default.png
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\Resources\FastFoodDatabase.accdb
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\Resources\product_default.png
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\FastFoodPOS.exe.config
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\FastFoodPOS.exe
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\FastFoodPOS.pdb
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\ClosedXML.dll
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\DocumentFormat.OpenXml.dll
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\ExcelNumberFormat.dll
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\LiveCharts.dll
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\LiveCharts.WinForms.dll
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\LiveCharts.Wpf.dll
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Components.AlertNotification.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Components.OrderItemComponent.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Components.ProductCardComponent.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Components.ProductCardComponent1.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Components.UserCardComponent.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Dialog.BackupDialogBox.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Dialog.ConfirmDialogBox.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Dialog.HelpDialogBox.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormActivityLog.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormAddProduct.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormAddUser.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormChangePassword.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormDashboard.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormManageProducts.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormProductArchive.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormSalesReport.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormTransactions.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateProduct.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateCurrentUser.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormUsers.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateUser.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormUsersArchive.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.CashierForms.FormUpdatePassword.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.CashierForms.ProcessOrder.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.FormAdminLogin.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.FormAdminPanel.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.CashierForms.FormPOS.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.FormCashierPanel.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.FormLoading.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.FormRegistration.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.MainForm.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Properties.Resources.resources
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.csproj.CopyComplete
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.exe
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.pdb
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.CashierForms.FormTables.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\Resources\user_default.png
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\Resources\FastFoodDatabase.accdb
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\Resources\product_default.png
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\FastFoodPOS.exe.config
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\FastFoodPOS.exe
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\FastFoodPOS.pdb
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\ClosedXML.dll
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\DocumentFormat.OpenXml.dll
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\ExcelNumberFormat.dll
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\LiveCharts.dll
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\LiveCharts.WinForms.dll
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\LiveCharts.Wpf.dll
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\bin\x86\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Components.AlertNotification.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Components.OrderItemComponent.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Components.ProductCardComponent.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Components.ProductCardComponent1.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Components.UserCardComponent.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Dialog.BackupDialogBox.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Dialog.ConfirmDialogBox.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Dialog.HelpDialogBox.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormActivityLog.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormAddProduct.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormAddUser.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormChangePassword.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormDashboard.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormManageProducts.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormProductArchive.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormSalesReport.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormTransactions.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateProduct.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateCurrentUser.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormUsers.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateUser.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.AdminForms.FormUsersArchive.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.CashierForms.FormTables.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.CashierForms.FormUpdatePassword.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.CashierForms.ProcessOrder.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.FormAdminLogin.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.FormAdminPanel.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.CashierForms.FormPOS.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.FormCashierPanel.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.FormLoading.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Forms.FormRegistration.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.MainForm.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.Properties.Resources.resources
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.csproj.CopyComplete
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.exe
+C:\Users\HP\Desktop\behlul\Restaurant Otomasyon\fastfood-pos-csharp-main\FastFoodPOS\obj\x86\Debug\FastFoodPOS.pdb
